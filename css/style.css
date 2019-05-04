@@ -13,7 +13,7 @@ body {
 }
 
 .subImg {
-    font-size: 40px;
+    font-size: 30px;
     padding-top: 30px;
     display: flex;
     font-family: 'Sawarabi Gothic', sans-serif;
@@ -22,7 +22,7 @@ body {
 }
 
 .b64 {
-    font-size: 60px;
+    font-size: 40px;
     margin-top: 10px;
     padding-bottom: 280px;
     display: flex;
@@ -33,14 +33,14 @@ body {
 
 .slish {
     color: #a82e2e;
-    font-size: 48px;
+    font-size: 30px;
     display: flex;
     justify-content: center;
     padding-top: 10px;
 }
 
 aside {
-    font-size: 30px;
+    font-size: 20px;
     display: flex;
     justify-content: center;
     color: #9d9d9d;
