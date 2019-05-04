@@ -24,7 +24,7 @@ body {
 .b64 {
     font-size: 40px;
     margin-top: 10px;
-    padding-bottom: 190px;
+    padding-bottom: 160px;
     display: flex;
     justify-content: center;
     color: #cecece;
@@ -43,11 +43,11 @@ aside {
     font-size: 20px;
     display: flex;
     justify-content: center;
-    color: #9d9d9d;
 }
 
 aside > a {
     text-decoration: none;
+    color: #9d9d9d;
 }
 
 /*# sourceMappingURL=/style.78032849.css.map */
